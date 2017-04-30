@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: ca496fa718ce8404c8a561fd7fc594de
+timeCreated: 1493544365
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Aqua_Reduced_v0014 [Aqua_Layered_02 [(unnamed)]]
+    100004: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer10]]
+    100006: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer11]]
+    100008: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer12]]
+    100010: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer13]]
+    100012: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer14]]
+    100014: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer15]]
+    100016: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer16]]
+    100018: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer17]]
+    100020: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer18]]
+    100022: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer19]]
+    100024: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer20]]
+    100026: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer21]]
+    100028: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer22]]
+    100030: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer23]]
+    100032: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer2]]
+    100034: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer3]]
+    100036: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer4]]
+    100038: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer5]]
+    100040: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer6]]
+    100042: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer7]]
+    100044: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer8]]
+    100046: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer9]]
+    100048: Aqua_Reduced_v0014 [Layer24]
+    100050: Aqua_Reduced_v0014 [Layer25]
+    100052: Aqua_Reduced_v0014 [Layer26]
+    100054: Aqua_Reduced_v0014 [Layer27]
+    100056: Aqua_Reduced_v0014 [Layer28]
+    400000: //RootNode
+    400002: Aqua_Reduced_v0014 [Aqua_Layered_02 [(unnamed)]]
+    400004: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer10]]
+    400006: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer11]]
+    400008: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer12]]
+    400010: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer13]]
+    400012: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer14]]
+    400014: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer15]]
+    400016: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer16]]
+    400018: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer17]]
+    400020: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer18]]
+    400022: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer19]]
+    400024: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer20]]
+    400026: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer21]]
+    400028: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer22]]
+    400030: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer23]]
+    400032: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer2]]
+    400034: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer3]]
+    400036: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer4]]
+    400038: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer5]]
+    400040: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer6]]
+    400042: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer7]]
+    400044: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer8]]
+    400046: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer9]]
+    400048: Aqua_Reduced_v0014 [Layer24]
+    400050: Aqua_Reduced_v0014 [Layer25]
+    400052: Aqua_Reduced_v0014 [Layer26]
+    400054: Aqua_Reduced_v0014 [Layer27]
+    400056: Aqua_Reduced_v0014 [Layer28]
+    2300000: Aqua_Reduced_v0014 [Aqua_Layered_02 [(unnamed)]]
+    2300002: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer10]]
+    2300004: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer11]]
+    2300006: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer12]]
+    2300008: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer13]]
+    2300010: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer14]]
+    2300012: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer15]]
+    2300014: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer16]]
+    2300016: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer17]]
+    2300018: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer18]]
+    2300020: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer19]]
+    2300022: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer20]]
+    2300024: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer21]]
+    2300026: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer22]]
+    2300028: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer23]]
+    2300030: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer2]]
+    2300032: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer3]]
+    2300034: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer4]]
+    2300036: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer5]]
+    2300038: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer6]]
+    2300040: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer7]]
+    2300042: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer8]]
+    2300044: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer9]]
+    2300046: Aqua_Reduced_v0014 [Layer24]
+    2300048: Aqua_Reduced_v0014 [Layer25]
+    2300050: Aqua_Reduced_v0014 [Layer26]
+    2300052: Aqua_Reduced_v0014 [Layer27]
+    2300054: Aqua_Reduced_v0014 [Layer28]
+    3300000: Aqua_Reduced_v0014 [Aqua_Layered_02 [(unnamed)]]
+    3300002: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer10]]
+    3300004: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer11]]
+    3300006: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer12]]
+    3300008: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer13]]
+    3300010: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer14]]
+    3300012: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer15]]
+    3300014: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer16]]
+    3300016: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer17]]
+    3300018: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer18]]
+    3300020: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer19]]
+    3300022: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer20]]
+    3300024: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer21]]
+    3300026: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer22]]
+    3300028: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer23]]
+    3300030: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer2]]
+    3300032: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer3]]
+    3300034: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer4]]
+    3300036: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer5]]
+    3300038: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer6]]
+    3300040: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer7]]
+    3300042: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer8]]
+    3300044: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer9]]
+    3300046: Aqua_Reduced_v0014 [Layer24]
+    3300048: Aqua_Reduced_v0014 [Layer25]
+    3300050: Aqua_Reduced_v0014 [Layer26]
+    3300052: Aqua_Reduced_v0014 [Layer27]
+    3300054: Aqua_Reduced_v0014 [Layer28]
+    4300000: Aqua_Reduced_v0014 [Aqua_Layered_02 [(unnamed)]]
+    4300002: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer2]]
+    4300004: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer3]]
+    4300006: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer4]]
+    4300008: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer5]]
+    4300010: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer6]]
+    4300012: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer7]]
+    4300014: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer8]]
+    4300016: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer9]]
+    4300018: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer10]]
+    4300020: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer11]]
+    4300022: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer12]]
+    4300024: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer13]]
+    4300026: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer14]]
+    4300028: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer15]]
+    4300030: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer16]]
+    4300032: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer17]]
+    4300034: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer18]]
+    4300036: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer19]]
+    4300038: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer20]]
+    4300040: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer21]]
+    4300042: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer22]]
+    4300044: Aqua_Reduced_v0014 [Aqua_Layered_02 [Layer23]]
+    4300046: Aqua_Reduced_v0014 [Layer24]
+    4300048: Aqua_Reduced_v0014 [Layer25]
+    4300050: Aqua_Reduced_v0014 [Layer26]
+    4300052: Aqua_Reduced_v0014 [Layer27]
+    4300054: Aqua_Reduced_v0014 [Layer28]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
